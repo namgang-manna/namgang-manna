@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🌱 남강 말씀 만나 (Namgang Manna)
+> **"오늘 우리에게 일용할 양식을 주시옵고..." (마태복음 6:11)**
+> 남강 공동체와 함께 새벽을 깨우며, 주신 말씀을 삶으로 살아내는 기록 공간입니다.
 
-<!--
-**namgang-manna/namgang-manna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🗓️ 기록 체계
+이곳은 두 가지 파트로 나누어 은혜를 기록합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. **[새벽기도 (Daily Dawn)](./02-Daily-Dawn)**
+   - 매일 새벽 제단에서 주시는 세밀한 음성을 기록합니다.
+   - 월~토 기록 | 일요일은 주일 예배 집중
+
+2. **[주간 명상 (Weekly Manna)](./01-Weekly-Manna)**
+   - 한 주간 깊이 뿌리 내려야 할 핵심 말씀을 갈무리합니다.
+   - 매주 일요일 저녁 업데이트
+
+---
+
+### 🙏 공동체 기도제목 (0515)
+- [ ] 남강 공동체 안에 말씀의 부흥이 일어나게 하소서.
+- [ ] 기록하는 손길마다 성령의 조명을 비추어 주소서.
+- [ ] 삶의 현장에서 말씀이 능력이 되게 하소서.
+
+---
+
+### 🔗 바로가기
+- [이번 달 말씀 보기](#) - [지난 기록 아카이브](#)
